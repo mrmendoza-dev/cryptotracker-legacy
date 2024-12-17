@@ -1,4 +1,16 @@
-# CryptoTracker
+# CryptoTracker (Legacy Version)
+
+⚠️ **LEGACY VERSION NOTICE** ⚠️
+This is the legacy version of CryptoTracker and is no longer actively maintained.
+For the latest actively maintained version, please visit:
+https://github.com/mrmendoza-dev/cryptotracker
+
+## Technical Improvements in New Version
+- Updated to use TailwindCSS, current CSS here is a mess and can be made much more maintainable
+- Refactored to use modern React conventions and best practices
+- Removed stale news data (data needs a paid API key to show relevant news)
+- Documentation and guides for adding your own API keys to comply with CoinGecko's API rules
+
 ## All-in-One Cryptocurrency App
 ##### Cryptocurrency data for over 10,000 cryptocurrencies, Modeled after CoinMarketCap and CoinGecko, and using data from different APIs including CoinGecko, CryptoNews, and Etherscan. Research cryptocurrencies, track your portfolio, and find related news.
 ##### Built as a test to practice frontend development. Written mainly in React and deployed on Netlify with no backend.
